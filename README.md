@@ -64,7 +64,7 @@
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://pages.github.com/">Github Pages</a></li>
+    <li><a href="https://render.io/">Render</a></li>
   </ul>
 </details>
 
@@ -85,7 +85,6 @@
 
 > Live demo:
 
- https://stevenmukama.github.io/javascript-group-capstone/dist/
  
  <!-- VIDEO WORKTHROUGH -->
  
@@ -113,7 +112,7 @@ In order to run this project you need:
 
 ### Setup
 
-Clone this repository by using the command line : git clone https://github.com/stevenmukama/javascript-group-capstone.git
+Clone this repository by using the command line : git clone https://github.com/tanveerisonline/show-time.git
 
 ### Install
 
